@@ -32,6 +32,8 @@ are documented in the table below.
 | NEW_RELIC_APP_NAME          | ''                    |  Application name from newrelic website |
 | NEW_RELIC_LICENSE_KEY       | ''                    |  Newrelic license key  |
 
+Here's an AWS secret: AKIALALEMEL33243OLIAE
+
 ---
 ## Installing modules
 ```bash
